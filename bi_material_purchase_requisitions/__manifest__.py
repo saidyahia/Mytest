@@ -2,7 +2,7 @@
 # Part of BrowseInfo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Product/Material Purchase Requisitions by Employees/Users in odoo',
+    'name': 'Product/Material Purchase Requisitions by Employees/Users in odoo ttt',
     'version': '13.0.1.0',
     'category': 'Purchases',
     'summary': 'Product Purchase Requisition for employee product Requisition for users manufacturing product Requisition manufacturing Requisition for product Requisition picking Requisition purchase material Requisition Requisition manufacturing material Requisition',
